@@ -9,11 +9,11 @@
 - [Project Description](#project-description)
 - [Dataset/Workflow](#dataset/workflow)
 - [Organization](#organization)
-- [Links](#links)<br>
-<br>
+- [Links](#links)
+
 ## Project Description
-The goal of this project was to import a messy data set: "Shark Attack", clean it and then export it as a CSV file. The Dataset was given to us as a CSV file.<br>
-<br>
+The goal of this project was to import a messy data set: "Shark Attack", clean it and then export it as a CSV file. The Dataset was given to us as a CSV file.
+
 ## Dataset/Workflow
 The Dataset: "Shark Atack" was a CSV file which I imported with pandas. Once I had the DataFrame, I looked at the Head to get an impression of what I had to do. Before starting to clean the data, I made a copy of the DataFrame. I then applied the following methods to clean the data:<br>
 <br>
@@ -30,8 +30,8 @@ The Dataset: "Shark Atack" was a CSV file which I imported with pandas. Once I h
 11 - In the sex column cleaning the data to have only "m", "f", Null (see code for more information)<br>
 12 - In the age colum deleting everything which is not a number<br>
 13 - In the age colum changing the data type to a float<br>
-14 - In the age colum deleting all the age values over 120 since that is about the maximum age of the human beeing<br>
-<br>
+14 - In the age colum deleting all the age values over 120 since that is about the maximum age of the human beeing
+
 ## Organization
 In the repository you will find several files:<br>
 <br>
@@ -39,7 +39,7 @@ In the repository you will find several files:<br>
 2 - GSAF5.csv -> The Shark Attack uncleaned CSV file<br>
 3 - GSAF5_cleaned.csv -> The cleaned Shark Attack CSV file<br>
 4 - data-wrangling.ipynb -> Contains all the code needed for importing, cleaning and exporting the file<br>
-5 - README.md -> That would be this beautiful file :P<br>
-<br>
+5 - README.md -> That would be this beautiful file :P
+
 ## Links
 [Repository](https://github.com/fctonio/Data-Cleaning)
