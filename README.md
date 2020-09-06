@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Data cleaning
 *Anton Neike*
 
 *Data-ber-08-20, Berlin & 16/08/2020*
